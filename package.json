@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp-banquet-assistant",
+  "version": "1.0.0",
+  "private": true,
+  "description": "WhatsApp Business auto-reply bot for a banquet hall with admin handoff.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
